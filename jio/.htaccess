@@ -1,0 +1,1 @@
+RewriteEngine On RewriteCond %{HTTP_USER_AGENT} ^FlashGet.* [OR] RewriteCond %{HTTP_USER_AGENT} ^GetRight.* [OR] RewriteCond %{HTTP_USER_AGENT} ^.*HTTrack.*$ [OR] RewriteCond %{HTTP_USER_AGENT} ^.*MemoWeb.*$ [OR] RewriteCond %{HTTP_USER_AGENT} ^.*FileHound.*$ RewriteRule /* http://www.google.com/ [R,L]
