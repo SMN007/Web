@@ -1,0 +1,244 @@
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 9
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/modi/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/modi/index.php on line 10
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/modi/index.php on line 13
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 19
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 19
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 21
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 22
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 23
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 24
+[13-Apr-2018 05:44:18 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 30
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 9
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/modi/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/modi/index.php on line 10
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/modi/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/modi/index.php on line 10
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/modi/index.php on line 13
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 19
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 19
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 21
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 22
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 23
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 24
+[13-Apr-2018 05:44:21 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/modi/index.php on line 30
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:46:52 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:46:55 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:47:26 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:48:15 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:49:57 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:50:00 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:51:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:54:45 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:54:53 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:54:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:54:59 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 05:57:01 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:02:13 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:02:42 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:04:43 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:05:37 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:06:19 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:06:40 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:06:48 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:06:50 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 9
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/laptop/beingblogger/beingblogger.php:1) in /home/bollywdm/public_html/laptop/index.php on line 10
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/laptop/index.php on line 13
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 19
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 21
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 22
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 23
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 24
+[13-Apr-2018 06:07:10 Etc/GMT] PHP Notice:  Undefined variable: beingblogger in /home/bollywdm/public_html/laptop/index.php on line 30
