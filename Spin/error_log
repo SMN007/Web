@@ -1,0 +1,224 @@
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:22:56 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:30 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:25:58 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:27:20 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:42 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:31:55 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:35:21 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 10
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bollywdm/public_html/test1/config/config.php:1) in /home/bollywdm/public_html/test1/index.php on line 11
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 14
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 20
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 22
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 23
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 24
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 25
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 31
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/header.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 81
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_left.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_left.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 87
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 91
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 214
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: questions in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/bollywdm/public_html/test1/index.php on line 217
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Notice:  Undefined variable: config in /home/bollywdm/public_html/test1/index.php on line 243
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/sidebar_right.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/sidebar_right.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 257
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(../common_pages/footer.php): failed to open stream: No such file or directory in /home/bollywdm/public_html/test1/index.php on line 266
+[24-Mar-2018 14:42:16 Etc/GMT] PHP Warning:  include(): Failed opening '../common_pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bollywdm/public_html/test1/index.php on line 266
