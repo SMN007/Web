@@ -1,0 +1,79 @@
+<STYLE TYPE="TEXT/CSS">
+#wrapper
+{
+    height:1000PX;
+    width:1000PX;
+    background-color:green; 
+}
+#header
+{
+    height:100PX;
+    width:1000PX;
+    background-color:pink; 
+}
+#h1
+{
+    height:100PX;
+    width:150PX;
+   background:url("php_image.png"); 
+    background-size: 150px 100px;
+    float:left;
+}
+#h2
+{
+    height:100PX;
+    width:850PX;
+    background-color:lightgreen;
+    float:left;
+}
+#menu
+{
+    height:800PX;
+    width:150PX;
+    background-color:cyan; 
+    float:left;
+}
+#content
+{
+    height:800PX;
+    width:700PX;
+    background-color:white;
+    float:left;
+}
+#comment
+{
+    height:800PX;
+    width:150PX;
+    background-color:cyan;
+    float:left;
+}
+#footer
+{
+    height:100PX;
+    width:1000PX;
+    background-color:pink; 
+    float:left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:green;
+}
+li {
+    float: left;
+
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:pink;
+}
+
+</STYLE>
