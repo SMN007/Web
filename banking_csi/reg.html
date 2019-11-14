@@ -1,0 +1,92 @@
+<HTML>
+    <HEAD>
+        <TITLE>REGISTRATION PAGE</TITLE>
+<LINK REL="STYLESHEET" HREF="style.css" TYPE="TEXT/CSS"/>
+    </HEAD>
+    
+    <BODY>
+        
+        <DIV ID="WRAPPER">
+        <DIV ID="HEADER">
+            <DIV ID="H1"></DIV>
+            <DIV ID="H2">
+                <ul>
+                    <li><a HREF="index.html">HOME</a></li>
+                    <li><a HREF="reg.html">REGISTER</a></li>
+                    <li><a HREF="about.html">ABOUT</a></li>
+                    <li><a HREF="contact.html">CONTACT</a></li>
+                </ul>
+            </DIV></DIV>
+        <DIV ID="MENU"></DIV>
+        <DIV ID="CONTENT">
+    <FORM ACTION="connect.php"  METHOD="POST">
+                <TABLE>
+                <TR>
+                    <TD>USER ID</TD>
+  <TD><INPUT TYPE="TEXT" NAME="uid" ID="UD"/></TD>
+                    </TR>
+                    <TR>
+                    <TD>PASSWORD</TD>
+  <TD><INPUT TYPE="PASSWORD" NAME="pwd" ID="PD"/></TD>
+                    </TR>
+                    
+                    <TR>
+                    <TD> CONFIRM PASSWORD</TD>
+  <TD><INPUT TYPE="PASSWORD" NAME="CPWD" ID="CPD"/></TD>
+                    </TR>
+                 </TR>
+                    <TR>
+                    <TD>NAME</TD>
+  <TD><INPUT TYPE="TEXT" NAME="name" ID="NM"/></TD>
+                    </TR>
+                       </TR>
+                    <TR>
+                    <TD>CONTACT</TD>
+  <TD><INPUT TYPE="TEXT" NAME="contact" ID="CNT"/></TD>
+                    </TR>
+                    </TR>
+                    <TR>
+                    <TD>EMAIL ID</TD>
+  <TD><INPUT TYPE="EMAIL" NAME="email" ID="MAIL"/></TD>
+                    </TR>
+                    
+                    <TR>
+                    <TD>ADDRESS</TD>
+  <TD><TEXTAREA ROWS="10" COLS="40" NAME="address" ID="ADD"></TEXTAREA></TD>
+                    </TR>
+                
+                    <TR>
+                    <TD>GENDER</TD>
+  <TD><INPUT TYPE="RADIO" NAME="gender" VALUE="MALE">MALE
+      <INPUT TYPE="RADIO" NAME="gender" VALUE="FEMALE">FEMALE</TD>
+                    </TR>
+                 <TR>
+                    <TD>LAST QUALIFICATION</TD>
+  <TD><SELECT NAME="lq">
+      <OPTION VALUE="0">SELECT</OPTION>
+      <OPTION VALUE="BCA">BCA</OPTION>
+      <OPTION VALUE="MCA">MCA</OPTION>
+      <OPTION VALUE="BTECH">BTECH</OPTION>
+      <OPTION VALUE="MTECH">MTECH</OPTION>
+      </SELECT></TD>
+                    </TR>
+      <TR>
+                    <TD>INTERESTS</TD>
+  <TD><INPUT TYPE="CHECKBOX" NAME="interests[]" VALUE="mutualfunds">MUTUALFUNDS
+      <INPUT TYPE="CHECKBOX" NAME="interests[]" VALUE="stock">STOCK
+          <INPUT TYPE="CHECKBOX" NAME="interests[]" VALUE="share">SHARE</TD>
+                    </TR>
+                    <TR>
+  <TD><INPUT TYPE="SUBMIT" VALUE="REGISTER"/>
+    <INPUT TYPE="RESET" VALUE="CANCEL"/></TD>
+                    </TR>
+                    
+                </TABLE>
+            </FORM>
+        </DIV>
+        <DIV ID="COMMENT"></DIV>
+        <DIV ID="FOOTER"></DIV>
+        </DIV>
+        
+    </BODY>
+</HTML>
